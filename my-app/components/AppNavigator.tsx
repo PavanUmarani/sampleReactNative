@@ -26,3 +26,4 @@ const AppNavigator: React.FC = () => {
 };
 
 export default AppNavigator;
+// wwdksdlsdk
